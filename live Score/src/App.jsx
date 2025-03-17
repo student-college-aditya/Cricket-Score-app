@@ -1,5 +1,5 @@
 import './App.css'
-import {CricketScore} from './Components/CricketScore'
+import CricketScore from './Components/cricketScore'
 function App() {
   return(
     <CricketScore />
